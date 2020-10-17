@@ -4,3 +4,5 @@ hello world
 working on updated fast forward
 
 update for merge commit
+
+updated for rebase in master
