@@ -1,3 +1,5 @@
 hello
 
 updated for fast forward merge from UI
+
+update for merge commit
